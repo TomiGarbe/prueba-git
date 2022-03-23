@@ -4,7 +4,7 @@ primera prueba
 ## Contac Info
 - Dev: Tomas **Garbellotto**
 
-[Aula virtual de Moodle] (https://campusvirtual.ucc.edu.ar/course/view.php?id=6694)
+[Aula virtual de Moodle](https://campusvirtual.ucc.edu.ar/course/view.php?id=6694)
 
 | Nombre | Apellido | Email |
 |--------|----------|-------|
